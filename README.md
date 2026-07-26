@@ -20,8 +20,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-<img src="./solution-view/desktop-view.png" width="400" alt="desktop view">
-<img src="./solution-view/mobile-view.png" width="400" alt="mobile view">
+<div style="display: flex; gap: 20px;">
+  <img src="./solution-view/desktop-view.png" height="300" alt="desktop view">
+  <img src="./solution-view/mobile-view.png" height="300" alt="mobile view">
+</div>
 
 ### Links
 
