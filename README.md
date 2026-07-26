@@ -20,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./solution-view/desktop-view.png)
-![](./solution-view/mobile-view.png)
+<img src="./solution-view/desktop-view.png" width="400" alt="desktop view">
+<img src="./solution-view/mobile-view.png" width="400" alt="mobile view">
 
 ### Links
 
