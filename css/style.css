@@ -6,7 +6,6 @@ body {
   flex-direction: column;
   margin: 0;
   padding: 0;
-  width: 100%;
   background-color: #f3e6d8;
   font-size: 16px;
   font-weight: 400;
@@ -27,18 +26,17 @@ body {
   --space-between-sections: 2rem;
 }
 
-h1 {
-  font-weight: 400;
-  color: hsl(24, 5%, 18%);
-}
-h2 {
-  color: hsl(14, 45%, 36%);
-}
-
 h1,
 h2 {
   font-weight: 400;
   font-family: "Young Serif", serif;
+}
+
+h1 {
+  color: hsl(24, 5%, 18%);
+}
+h2 {
+  color: hsl(14, 45%, 36%);
 }
 
 h1,
@@ -48,13 +46,6 @@ main div,
   margin-bottom: var(--space-between-sections) !important;
 }
 
-div > ul {
-  position: relative;
-}
-li::marker {
-  position: absolute;
-  top: 0;
-}
 ol,
 ul {
   display: flex;
@@ -66,6 +57,7 @@ li > span:first-child {
   padding-left: 1.5rem;
   vertical-align: top;
 }
+
 hr {
   opacity: 50%;
 }
