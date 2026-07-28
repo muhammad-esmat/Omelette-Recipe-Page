@@ -27,8 +27,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [https://omlette-page.netlify.app/](https://omlette-page.netlify.app/)
-
+- Live Site URL:
+  -   Netlify: [https://omlette-page.netlify.app/](https://omlette-page.netlify.app/)
+  -   Github: [https://muhammad-esmat.github.io/Omelette-Recipe-Page/]
+  
 ## My process
 
 ### Built with
